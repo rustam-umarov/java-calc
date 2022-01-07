@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-07T20:26:23Z" name="Command line suite" finished-at="2022-01-07T20:26:23Z" duration-ms="361">
+    <groups>
+    </groups>
+    <test started-at="2022-01-07T20:26:23Z" name="Command line test" finished-at="2022-01-07T20:26:23Z" duration-ms="361">
+      <class name="com.yulrud.autotest.CalcTest">
+        <test-method signature="addTest()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="addTest" finished-at="2022-01-07T20:26:23Z" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method signature="calculateVarTestDivide()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="calculateVarTestDivide" finished-at="2022-01-07T20:26:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateVarTestDivide -->
+        <test-method signature="calculateVarTestMod()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="calculateVarTestMod" finished-at="2022-01-07T20:26:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateVarTestMod -->
+        <test-method signature="calculateVarTestMultiply()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="calculateVarTestMultiply" finished-at="2022-01-07T20:26:23Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateVarTestMultiply -->
+        <test-method signature="calculateVarTestOtherSign()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="calculateVarTestOtherSign" finished-at="2022-01-07T20:26:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateVarTestOtherSign -->
+        <test-method signature="calculateVarTestSubstract()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="calculateVarTestSubstract" finished-at="2022-01-07T20:26:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateVarTestSubstract -->
+        <test-method signature="calculateVarTestSum()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="calculateVarTestSum" finished-at="2022-01-07T20:26:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculateVarTestSum -->
+        <test-method signature="divideTest()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="divideTest" finished-at="2022-01-07T20:26:23Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divideTest -->
+        <test-method signature="modTest()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="modTest" finished-at="2022-01-07T20:26:23Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modTest -->
+        <test-method signature="multiplyTest()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="multiplyTest" finished-at="2022-01-07T20:26:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplyTest -->
+        <test-method signature="subtractTest()[pri:0, instance:com.yulrud.autotest.CalcTest@1a8a8f7c]" started-at="2022-01-07T20:26:23Z" name="subtractTest" finished-at="2022-01-07T20:26:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtractTest -->
+      </class> <!-- com.yulrud.autotest.CalcTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
